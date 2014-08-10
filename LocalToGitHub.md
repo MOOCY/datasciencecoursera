@@ -1,10 +1,10 @@
-# Primary Heading
+###Git to GitHub Workflow
 
-##Secondary Heading
 
-###Tertiary Heading
 
-* Item 1 of list
-* Item 2 of list
-* Item 3 of list
-
+In Git Bash:
+* Create new file : touch "file.md"
+* After editing new files on local machine cd into working repository : git add . 
+* Update local repository : git add -u
+* Commit local changes to local repo : git commit -m "comment on changes"
+* Push changes to GitHub  (need to enter username and pwd) : git push
