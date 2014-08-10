@@ -1,8 +1,8 @@
+# Primary Heading
+
 ##Secondary Heading
 
 ###Tertiary Heading
-
-#?Heading
 
 * Item 1 of list
 * Item 2 of list
